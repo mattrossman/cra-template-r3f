@@ -1,0 +1,10 @@
+{
+  "name": "@mattrossman/cra-template-r3f",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattrossman/cra-template-r3f"
+  },
+  "author": "mattrossman <rossman@gatech.edu>",
+  "license": "MIT"
+}
