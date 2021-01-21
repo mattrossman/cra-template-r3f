@@ -1,4 +1,4 @@
-![NPM version badge](https://img.shields.io/npm/v/@mattrossman/cra-template-r3f)
+[![NPM version badge](https://img.shields.io/npm/v/@mattrossman/cra-template-r3f)](https://www.npmjs.com/package/@mattrossman/cra-template-r3f)
 
 # Matt's R3F starter
 
