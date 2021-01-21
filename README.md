@@ -1,3 +1,5 @@
+![NPM version badge](https://img.shields.io/npm/v/@mattrossman/cra-template-r3f)
+
 # Matt's R3F starter
 
 Just the essentials for React and Three.js
